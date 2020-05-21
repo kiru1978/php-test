@@ -46,3 +46,6 @@ to your finished version.
 ## Copyright
 All trademarks as the property of their respective owners.
 
+## Note of the Developer
+Run composer to install the Guzzle packages
+
