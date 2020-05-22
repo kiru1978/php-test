@@ -2,8 +2,9 @@
   "name": "totallywicked/rick-and-morty",
   "description": "The Totally Wicked PHP developer test",
   "type": "project",
-  "require": {},
+  "require": {
+    "guzzlehttp/guzzle": "^6.5"
+  },
   "minimum-stability": "dev",
   "prefer-stable": true
 }
-
